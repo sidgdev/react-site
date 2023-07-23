@@ -1,0 +1,29 @@
+main {
+    min-height: 100vh;
+    padding: 60px 40px;
+    background: #282D35;
+}
+
+h2 {
+    margin-bottom: 40px;
+    color: #FFF;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+li {
+    display: flex;
+    column-gap: 10px;
+}
+
+li p {
+    margin-block: 20px;
+    color: #FFF;
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+
