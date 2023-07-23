@@ -2,6 +2,11 @@ main {
     min-height: 100vh;
     padding: 60px 40px;
     background: #282D35;
+    background-image: url(/src/assets/reactjs-icon.svg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 20%;
+    background-size: 20%;
 }
 
 h2 {
